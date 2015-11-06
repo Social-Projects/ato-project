@@ -8,7 +8,7 @@ videos, get a lawyer advice and answers to frequently asked questions.
 
 1. Clone this project
 2. Install any ftp client you like (FileZilla, etc.)
-3. set your own into wp_config.php in the next lines:
+3. set your own credentials into wp_config.php in the next lines:
 define('DB_NAME', 'your db name');
 define('DB_USER', 'your user name');
 define('DB_PASSWORD', 'your db password');
