@@ -1,0 +1,18 @@
+[29-Oct-2015 10:45:28] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:28] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:28] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:29] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:29] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:29] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:30] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:30] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:30] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:30] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:31] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:31] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:31] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:31] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:32] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:45:32] PHP Warning:  Wrong parameter count for clearstatcache() in /home7/moderna2/public_html/ato/wp-content/plugins/photo-gallery/filemanager/UploadHandler.php on line 243
+[29-Oct-2015 10:46:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/moderna2/public_html/ato/wp-admin/includes/template.php:1981) in /home7/moderna2/public_html/ato/wp-includes/pluggable.php on line 1207
+[29-Oct-2015 15:27:51] WordPress database error Unknown table 'wp_revisr' for query DROP TABLE wp_revisr made by delete_plugins, uninstall_plugin, include('/plugins/revisr/uninstall.php')

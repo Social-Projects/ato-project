@@ -475,7 +475,7 @@ body {
 	background-color: #ffffff;
 }
 #header-text-nav-container {
-	background-color: #FFFFFF;
+	background: url("http://ato.modernadvertising.org/wp-content/uploads/2015/10/header_bg-e1446119498697.jpg");
 }
 #header-text-nav-wrap {
 	padding: 20px 0 25px;
@@ -499,7 +499,7 @@ body {
 	line-height: 1.2;
 }
 #site-title a {
-	color: #289dcc;
+	color: #fff;
 	font-size: 46px;
 }
 #site-description {
@@ -730,7 +730,7 @@ li.default-menu {
 .main-navigation ul li.current_page_item a,
 .main-navigation ul li:hover > a,
 .main-navigation li.menu-item-has-children:hover > a:after {
-	color: #ffffff;
+	color: #000;
 }
 .main-navigation a:hover,
 .main-navigation ul li.current-menu-item > a,

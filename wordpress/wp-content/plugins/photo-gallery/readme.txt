@@ -216,8 +216,8 @@ Yes, it is possible to add advertising and/or watermark over the images. In both
 == Changelog ==
 
 = 1.2.65 =   
-Fixed: Right click protection on Safari.     
-Added: Export/Import add-on.     
+*  Fixed: Right click protection on Safari.      
+*  Added: Export/Import add-on.       
 
 = 1.2.64 =
 *  Fixed: Embed media responsiveness.     
