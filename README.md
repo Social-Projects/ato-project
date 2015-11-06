@@ -16,8 +16,8 @@ define('DB_PASSWORD', 'your db password');
 5. run db_restore.php file from your browser to import data to database
 
 #Reserve copies
-to make a reserve copy of project run wp_dump.php
-to make a reserve copy of database run db_dump.php
+1. To make a reserve copy of project run wp_dump.php
+2. To make a reserve copy of database run db_dump.php
 
 
 - phpmyadmin version: 4.0.10deb1
