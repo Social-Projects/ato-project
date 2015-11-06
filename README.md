@@ -4,6 +4,9 @@
 Its a wordpress website for public organization (ГО "Асоціація учасників АТО Львівщини") where users can view news, photos, 
 videos, get a lawyer advice and answers to frequently asked questions.
 
+- phpmyadmin version: 4.0.10deb1
+- mysql version: 14.14
+
 #Installation
 
 1. Clone this project
@@ -19,6 +22,9 @@ define('DB_PASSWORD', 'your db password');
 1. To make a reserve copy of project run wp_dump.php
 2. To make a reserve copy of database run db_dump.php
 
-
-- phpmyadmin version: 4.0.10deb1
-- mysql version: 14.14
+#Contributors:
+Andriy Malets
+Marta Hazda
+Olha Horin
+Galyna Virt
+Andriy Bohush
