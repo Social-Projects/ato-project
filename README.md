@@ -23,8 +23,8 @@ define('DB_PASSWORD', 'your db password');
 2. To make a reserve copy of database run db_dump.php
 
 #Contributors:
-*Andriy Malets
-*Marta Hazda
-*Olha Horin
-*Galyna Virt
-*Andriy Bohush
+-Andriy Malets
+-Marta Hazda
+-Olha Horin
+-Galyna Virt
+-Andriy Bohush
